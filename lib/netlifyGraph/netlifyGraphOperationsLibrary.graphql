@@ -1,0 +1,13 @@
+query Spotifoo($query: String = "Ataraxia") @netlify(id: """e5097973-c979-4dbd-b0c1-a0d49047fb33""", doc: """An example query to start with.""") {
+  spotify {
+    search(data: {query: $query}) {
+      tracks {
+        id
+        name
+        artists {
+          name
+        }
+      }
+    }
+  }
+}
