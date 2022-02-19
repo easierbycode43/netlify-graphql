@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project based on this [`Twitch.tv stream`](https://www.twitch.tv/videos/1299016321) / ['project'](https://github.com/learnwithjason/netlify-graph-nextjs).
+This is a [Next.js](https://nextjs.org/) project based on this [`Twitch.tv stream`](https://www.twitch.tv/videos/1299016321) / [project](https://github.com/learnwithjason/netlify-graph-nextjs).
 
 ## Getting Started
 
